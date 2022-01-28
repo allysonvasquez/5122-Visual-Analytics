@@ -4,7 +4,7 @@ Code and Notes for ITCS 5122 Visual Analytics Course at UNC Charlotte.
 Homework Partners: Allyson Vasquez & Alex Miller
 
 # Homework
-## Homework 1: Data Manipulation: Insurance Portfolio
+## Homework 1: Data Manipulation-Insurance Portfolio
 In this assignment we practice working with Python, Pandas and NumPy on an insurance dataset. The dataset we work on includes a set of car insurance policies with their respective attributes.
 
 # Notes
