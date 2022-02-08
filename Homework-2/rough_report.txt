@@ -1,0 +1,37 @@
+[10pts] The dataset type(s) (it could be just one type, or multiple types if it’s heterogeneous)
+    - Integer and String types
+
+[10pts] Number of items and fields/attributes
+    -838 items and 5 fields/attributes
+
+[10pts] The types of all the attributes
+    -State Code: Integer
+    -State Abv: String
+    -Damage Code: Integer
+    -Damage Descp: String
+    -Amount: Integer
+
+[10pts] A concise description for each attribute based on what you think the attribute means in this context
+    -The state code is a numerical representation of the state
+    -The state abv is a 1:1 identifier for the state code
+    -The damage code is a numerical representation of the damages
+    -The damage description gives context to what each type of envirmental damage is, with a 1:1 relationship with damage code
+    -The amount is the magnitude of damage measured in US Dollars
+
+[10pts] For each attribute determine its cardinality/range
+For categorical attributes, write down the number of unique levels
+For quantitative attributes, specify the range from min to max and note any other characterization that seems potentially useful (cyclic? Anything else?)
+For ordered attributes, consider whether it would be more useful to treat them categorical or quantitative, or to preserve them as ordered.
+
+[10pts] Write two questions you would like to answer with this data set. 
+    - What is the most damaging type of damage?
+[20pts] For each question, write the following information:
+Do you need a chart in order to answer this question?
+If none of your questions require a chart, try to create a new ones that might benefit from one.
+Which fields/attributes do you need to use to answer the question?
+Do you need to transform the data in order to answer the question? If yes, what transformations are needed?
+Do dataset type and attribute type change when you need to transform the data? If yes, how do they change?
+Do you have all the data you need to answer this question, or would you need additional data fields that are not provided here?
+
+
+############### Excess Moisture/Precip/Rain appears to have the highest damages

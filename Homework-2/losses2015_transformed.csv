@@ -1,0 +1,839 @@
+State_Code,State_Abv,Damage_Code,Damage_Descp,Amount
+2,AK,1,Decline in Price,2728
+2,AK,11,Drought,61674
+1,AL,1,Decline in Price,691645
+1,AL,9,Asian Soybean Rust,1031
+1,AL,11,Drought,12095166
+1,AL,12,Heat,777678
+1,AL,21,Hail,30174
+1,AL,31,Excess Moisture/Precip/Rain,19454535
+1,AL,41,Frost,104549
+1,AL,42,Freeze,16401
+1,AL,43,Cold Winter,26947
+1,AL,44,Cold Wet Weather,65058
+1,AL,51,Flood,125379
+1,AL,55,Area Plan Crops Only,462955
+1,AL,61,Wind/Excess Wind,61796
+1,AL,62,Hot Wind,5696
+1,AL,71,Insects,15954
+1,AL,81,Plant Disease,285501
+1,AL,93,Wildlife,1273689
+5,AR,1,Decline in Price,810082
+5,AR,9,Asian Soybean Rust,9620
+5,AR,11,Drought,2289303
+5,AR,12,Heat,9710160
+5,AR,13,Failure Irrig Supply,51409
+5,AR,14,Failure Irrig Equip,4831
+5,AR,15,Inability to Prepare Land for Irr,16332
+5,AR,21,Hail,493778
+5,AR,31,Excess Moisture/Precip/Rain,119675613
+5,AR,41,Frost,15899
+5,AR,42,Freeze,2036
+5,AR,43,Cold Winter,6397
+5,AR,44,Cold Wet Weather,8424048
+5,AR,51,Flood,6912664
+5,AR,55,Area Plan Crops Only,997149
+5,AR,61,Wind/Excess Wind,1436154
+5,AR,71,Insects,39168
+5,AR,81,Plant Disease,316777
+5,AR,91,Fire,81603
+5,AR,93,Wildlife,458424
+5,AR,97,Earthquake,37796
+5,AR,99,Other (Snow-Lightning-Etc.),105312
+4,AZ,12,Heat,89863
+4,AZ,13,Failure Irrig Supply,9918142
+4,AZ,21,Hail,1355800
+4,AZ,31,Excess Moisture/Precip/Rain,222334
+4,AZ,42,Freeze,249800
+4,AZ,43,Cold Winter,4714
+4,AZ,51,Flood,24573
+4,AZ,55,Area Plan Crops Only,969749
+4,AZ,61,Wind/Excess Wind,51496
+4,AZ,81,Plant Disease,75664
+6,CA,1,Decline in Price,11962
+6,CA,11,Drought,1639605
+6,CA,12,Heat,249047966
+6,CA,13,Failure Irrig Supply,162514832
+6,CA,14,Failure Irrig Equip,1156693
+6,CA,21,Hail,11235929
+6,CA,31,Excess Moisture/Precip/Rain,47616979
+6,CA,41,Frost,3470451
+6,CA,42,Freeze,8442885
+6,CA,43,Cold Winter,1061493
+6,CA,44,Cold Wet Weather,21979888
+6,CA,51,Flood,61595
+6,CA,55,Area Plan Crops Only,20047842
+6,CA,61,Wind/Excess Wind,5273692
+6,CA,62,Hot Wind,174093
+6,CA,71,Insects,2823674
+6,CA,81,Plant Disease,1982224
+6,CA,91,Fire,118902
+6,CA,93,Wildlife,1012243
+6,CA,99,Other (Snow-Lightning-Etc.),2688717
+8,CO,1,Decline in Price,1852426
+8,CO,11,Drought,9723064
+8,CO,12,Heat,528705
+8,CO,13,Failure Irrig Supply,9220718
+8,CO,14,Failure Irrig Equip,39465
+8,CO,21,Hail,20703273
+8,CO,31,Excess Moisture/Precip/Rain,29594857
+8,CO,41,Frost,365117
+8,CO,42,Freeze,13414590
+8,CO,43,Cold Winter,6921298
+8,CO,44,Cold Wet Weather,1433569
+8,CO,51,Flood,447971
+8,CO,55,Area Plan Crops Only,313447
+8,CO,61,Wind/Excess Wind,3396151
+8,CO,62,Hot Wind,688070
+8,CO,63,Cyclone,3809
+8,CO,64,Tornado,1017
+8,CO,71,Insects,62925
+8,CO,81,Plant Disease,1183740
+8,CO,87,Falling Numbers,307
+8,CO,93,Wildlife,26766
+8,CO,99,Other (Snow-Lightning-Etc.),200520
+9,CT,1,Decline in Price,29029
+9,CT,11,Drought,70133
+9,CT,12,Heat,2681
+9,CT,31,Excess Moisture/Precip/Rain,75560
+9,CT,81,Plant Disease,1369654
+9,CT,93,Wildlife,8382
+9,CT,95,House Burn (Pole Burn),166012
+10,DE,1,Decline in Price,268848
+10,DE,11,Drought,1250703
+10,DE,12,Heat,42294
+10,DE,21,Hail,1989
+10,DE,31,Excess Moisture/Precip/Rain,281192
+10,DE,44,Cold Wet Weather,324263
+10,DE,61,Wind/Excess Wind,16734
+10,DE,71,Insects,1174
+10,DE,93,Wildlife,109455
+10,DE,99,Other (Snow-Lightning-Etc.),145
+12,FL,1,Decline in Price,206059
+12,FL,11,Drought,4331433
+12,FL,12,Heat,1267259
+12,FL,14,Failure Irrig Equip,25920
+12,FL,21,Hail,481982
+12,FL,31,Excess Moisture/Precip/Rain,21260260
+12,FL,41,Frost,142521
+12,FL,42,Freeze,2369474
+12,FL,44,Cold Wet Weather,210511
+12,FL,45,Insufficient Chilling Hours,34020
+12,FL,51,Flood,7346
+12,FL,55,Area Plan Crops Only,6165773
+12,FL,61,Wind/Excess Wind,107746
+12,FL,64,Tornado,85043
+12,FL,71,Insects,223081
+12,FL,81,Plant Disease,296186
+12,FL,93,Wildlife,98007
+12,FL,99,Other (Snow-Lightning-Etc.),4655
+13,GA,1,Decline in Price,398720
+13,GA,11,Drought,24106639
+13,GA,12,Heat,4778734
+13,GA,14,Failure Irrig Equip,42985
+13,GA,21,Hail,229749
+13,GA,31,Excess Moisture/Precip/Rain,46713815
+13,GA,41,Frost,180513
+13,GA,42,Freeze,6944291
+13,GA,43,Cold Winter,52093
+13,GA,44,Cold Wet Weather,2056254
+13,GA,51,Flood,828
+13,GA,55,Area Plan Crops Only,536523
+13,GA,61,Wind/Excess Wind,3145197
+13,GA,62,Hot Wind,4734
+13,GA,63,Cyclone,1761
+13,GA,71,Insects,151626
+13,GA,81,Plant Disease,2393432
+13,GA,82,Mycotoxin (Aflatoxin),9680
+13,GA,93,Wildlife,1361678
+13,GA,97,Earthquake,9966
+13,GA,99,Other (Snow-Lightning-Etc.),96920
+15,HI,31,Excess Moisture/Precip/Rain,161598
+15,HI,61,Wind/Excess Wind,20823
+15,HI,92,Hurricane/Tropical Depression,33212
+19,IA,1,Decline in Price,9975368
+19,IA,11,Drought,3750044
+19,IA,12,Heat,120618
+19,IA,13,Failure Irrig Supply,4206
+19,IA,14,Failure Irrig Equip,4567
+19,IA,21,Hail,3138728
+19,IA,31,Excess Moisture/Precip/Rain,114767906
+19,IA,41,Frost,494
+19,IA,42,Freeze,26309
+19,IA,43,Cold Winter,29688
+19,IA,44,Cold Wet Weather,2249246
+19,IA,51,Flood,3050489
+19,IA,61,Wind/Excess Wind,2685001
+19,IA,62,Hot Wind,7986
+19,IA,64,Tornado,38500
+19,IA,71,Insects,46012
+19,IA,81,Plant Disease,1320319
+19,IA,82,Mycotoxin (Aflatoxin),84552
+19,IA,91,Fire,27139
+19,IA,93,Wildlife,299612
+19,IA,97,Earthquake,116
+19,IA,99,Other (Snow-Lightning-Etc.),580774
+16,ID,1,Decline in Price,3923725
+16,ID,11,Drought,20023984
+16,ID,12,Heat,8440750
+16,ID,13,Failure Irrig Supply,8008523
+16,ID,14,Failure Irrig Equip,476441
+16,ID,21,Hail,5460700
+16,ID,31,Excess Moisture/Precip/Rain,897500
+16,ID,41,Frost,529303
+16,ID,42,Freeze,1339335
+16,ID,43,Cold Winter,3721002
+16,ID,44,Cold Wet Weather,327648
+16,ID,51,Flood,102103
+16,ID,55,Area Plan Crops Only,687648
+16,ID,61,Wind/Excess Wind,834287
+16,ID,62,Hot Wind,73100
+16,ID,71,Insects,1421633
+16,ID,81,Plant Disease,2568699
+16,ID,91,Fire,106737
+16,ID,93,Wildlife,382312
+16,ID,99,Other (Snow-Lightning-Etc.),22301
+17,IL,1,Decline in Price,40485548
+17,IL,11,Drought,1462635
+17,IL,12,Heat,23222
+17,IL,13,Failure Irrig Supply,-78
+17,IL,14,Failure Irrig Equip,83035
+17,IL,15,Inability to Prepare Land for Irr,99952
+17,IL,21,Hail,819511
+17,IL,22,Excess Sun,1368048
+17,IL,31,Excess Moisture/Precip/Rain,370041985
+17,IL,41,Frost,63917
+17,IL,42,Freeze,445165
+17,IL,43,Cold Winter,978793
+17,IL,44,Cold Wet Weather,8141649
+17,IL,51,Flood,17546455
+17,IL,61,Wind/Excess Wind,623892
+17,IL,64,Tornado,71347
+17,IL,71,Insects,59632
+17,IL,81,Plant Disease,1175654
+17,IL,82,Mycotoxin (Aflatoxin),5007699
+17,IL,85,Federal or State Ordered Destruct,9158
+17,IL,91,Fire,21014
+17,IL,93,Wildlife,153887
+17,IL,97,Earthquake,8070
+17,IL,99,Other (Snow-Lightning-Etc.),2174514
+18,IN,1,Decline in Price,19568927
+18,IN,9,Asian Soybean Rust,701
+18,IN,11,Drought,1064670
+18,IN,12,Heat,73307
+18,IN,13,Failure Irrig Supply,10923
+18,IN,14,Failure Irrig Equip,10823
+18,IN,21,Hail,765725
+18,IN,31,Excess Moisture/Precip/Rain,338885506
+18,IN,41,Frost,1090210
+18,IN,42,Freeze,322215
+18,IN,43,Cold Winter,289878
+18,IN,44,Cold Wet Weather,3524853
+18,IN,51,Flood,19867382
+18,IN,61,Wind/Excess Wind,371643
+18,IN,64,Tornado,145
+18,IN,71,Insects,51998
+18,IN,81,Plant Disease,441304
+18,IN,82,Mycotoxin (Aflatoxin),1320365
+18,IN,91,Fire,37996
+18,IN,93,Wildlife,165119
+18,IN,97,Earthquake,156828
+18,IN,99,Other (Snow-Lightning-Etc.),3320032
+20,KS,1,Decline in Price,18703840
+20,KS,11,Drought,144483304
+20,KS,12,Heat,7598019
+20,KS,13,Failure Irrig Supply,36651
+20,KS,14,Failure Irrig Equip,37069
+20,KS,15,Inability to Prepare Land for Irr,869
+20,KS,21,Hail,27104355
+20,KS,31,Excess Moisture/Precip/Rain,65412404
+20,KS,41,Frost,276416
+20,KS,42,Freeze,15944763
+20,KS,43,Cold Winter,47250178
+20,KS,44,Cold Wet Weather,2405588
+20,KS,51,Flood,1779849
+20,KS,55,Area Plan Crops Only,603886
+20,KS,61,Wind/Excess Wind,2015734
+20,KS,62,Hot Wind,3978512
+20,KS,63,Cyclone,69518
+20,KS,64,Tornado,11664
+20,KS,71,Insects,859393
+20,KS,81,Plant Disease,2002280
+20,KS,82,Mycotoxin (Aflatoxin),1543488
+20,KS,87,Falling Numbers,21700
+20,KS,91,Fire,3377
+20,KS,93,Wildlife,124549
+20,KS,97,Earthquake,3064
+20,KS,99,Other (Snow-Lightning-Etc.),632100
+21,KY,1,Decline in Price,882331
+21,KY,11,Drought,1781687
+21,KY,12,Heat,116143
+21,KY,21,Hail,2487423
+21,KY,31,Excess Moisture/Precip/Rain,63152722
+21,KY,41,Frost,91442
+21,KY,42,Freeze,184847
+21,KY,43,Cold Winter,125539
+21,KY,44,Cold Wet Weather,754883
+21,KY,51,Flood,17261101
+21,KY,61,Wind/Excess Wind,1618370
+21,KY,62,Hot Wind,3256
+21,KY,64,Tornado,669
+21,KY,71,Insects,993
+21,KY,81,Plant Disease,300922
+21,KY,82,Mycotoxin (Aflatoxin),1173
+21,KY,91,Fire,84900
+21,KY,93,Wildlife,285497
+21,KY,95,House Burn (Pole Burn),572899
+21,KY,99,Other (Snow-Lightning-Etc.),823646
+22,LA,1,Decline in Price,891367
+22,LA,11,Drought,12397458
+22,LA,12,Heat,9091001
+22,LA,14,Failure Irrig Equip,22453
+22,LA,21,Hail,480291
+22,LA,31,Excess Moisture/Precip/Rain,46883835
+22,LA,44,Cold Wet Weather,626773
+22,LA,51,Flood,4225028
+22,LA,61,Wind/Excess Wind,793660
+22,LA,62,Hot Wind,1346
+22,LA,71,Insects,21137
+22,LA,81,Plant Disease,524101
+22,LA,82,Mycotoxin (Aflatoxin),32345
+22,LA,93,Wildlife,499291
+22,LA,97,Earthquake,21279
+22,LA,99,Other (Snow-Lightning-Etc.),1315555
+25,MA,1,Decline in Price,2235
+25,MA,11,Drought,148177
+25,MA,12,Heat,146515
+25,MA,21,Hail,280827
+25,MA,31,Excess Moisture/Precip/Rain,300016
+25,MA,41,Frost,104649
+25,MA,42,Freeze,6375
+25,MA,43,Cold Winter,53163
+25,MA,62,Hot Wind,99
+25,MA,71,Insects,255852
+25,MA,74,Other Causes,199367
+25,MA,81,Plant Disease,398142
+25,MA,93,Wildlife,27908
+24,MD,1,Decline in Price,384026
+24,MD,11,Drought,2455409
+24,MD,12,Heat,781814
+24,MD,21,Hail,112991
+24,MD,22,Excess Sun,233345
+24,MD,31,Excess Moisture/Precip/Rain,2220175
+24,MD,42,Freeze,84834
+24,MD,43,Cold Winter,62980
+24,MD,44,Cold Wet Weather,529215
+24,MD,55,Area Plan Crops Only,12570
+24,MD,61,Wind/Excess Wind,58957
+24,MD,71,Insects,11642
+24,MD,91,Fire,1278
+24,MD,93,Wildlife,886704
+24,MD,99,Other (Snow-Lightning-Etc.),9455
+23,ME,1,Decline in Price,2622
+23,ME,11,Drought,11370
+23,ME,12,Heat,102992
+23,ME,21,Hail,198641
+23,ME,31,Excess Moisture/Precip/Rain,2965080
+23,ME,41,Frost,6648
+23,ME,42,Freeze,14359
+23,ME,43,Cold Winter,1895
+23,ME,44,Cold Wet Weather,107874
+23,ME,61,Wind/Excess Wind,195643
+23,ME,71,Insects,17956
+23,ME,81,Plant Disease,631480
+23,ME,93,Wildlife,10161
+23,ME,99,Other (Snow-Lightning-Etc.),269
+26,MI,1,Decline in Price,4316694
+26,MI,11,Drought,669953
+26,MI,12,Heat,218332
+26,MI,21,Hail,1364719
+26,MI,31,Excess Moisture/Precip/Rain,44690143
+26,MI,41,Frost,3070098
+26,MI,42,Freeze,4912982
+26,MI,43,Cold Winter,3316707
+26,MI,44,Cold Wet Weather,5089355
+26,MI,51,Flood,97162
+26,MI,61,Wind/Excess Wind,74264
+26,MI,62,Hot Wind,17452
+26,MI,64,Tornado,350
+26,MI,71,Insects,21522
+26,MI,81,Plant Disease,776802
+26,MI,82,Mycotoxin (Aflatoxin),2021336
+26,MI,93,Wildlife,458335
+26,MI,99,Other (Snow-Lightning-Etc.),1409505
+27,MN,1,Decline in Price,4327003
+27,MN,9,Asian Soybean Rust,1513
+27,MN,11,Drought,6769970
+27,MN,12,Heat,4313202
+27,MN,21,Hail,19512881
+27,MN,31,Excess Moisture/Precip/Rain,38986604
+27,MN,41,Frost,674614
+27,MN,42,Freeze,1804433
+27,MN,43,Cold Winter,2016374
+27,MN,44,Cold Wet Weather,3842924
+27,MN,51,Flood,35832
+27,MN,55,Area Plan Crops Only,302376
+27,MN,61,Wind/Excess Wind,1997726
+27,MN,62,Hot Wind,59805
+27,MN,64,Tornado,12106
+27,MN,71,Insects,58990
+27,MN,81,Plant Disease,1673749
+27,MN,93,Wildlife,274156
+27,MN,99,Other (Snow-Lightning-Etc.),568271
+29,MO,1,Decline in Price,6882259
+29,MO,11,Drought,3260549
+29,MO,12,Heat,178051
+29,MO,13,Failure Irrig Supply,26994
+29,MO,14,Failure Irrig Equip,41394
+29,MO,15,Inability to Prepare Land for Irr,23727
+29,MO,21,Hail,585858
+29,MO,31,Excess Moisture/Precip/Rain,466744931
+29,MO,41,Frost,25759
+29,MO,42,Freeze,189563
+29,MO,43,Cold Winter,1042272
+29,MO,44,Cold Wet Weather,5750798
+29,MO,51,Flood,23924341
+29,MO,55,Area Plan Crops Only,160706
+29,MO,61,Wind/Excess Wind,654817
+29,MO,62,Hot Wind,191914
+29,MO,63,Cyclone,1632
+29,MO,71,Insects,28343
+29,MO,81,Plant Disease,770858
+29,MO,82,Mycotoxin (Aflatoxin),5410271
+29,MO,87,Falling Numbers,1215
+29,MO,91,Fire,3662
+29,MO,93,Wildlife,139450
+29,MO,97,Earthquake,21031
+29,MO,99,Other (Snow-Lightning-Etc.),350604
+28,MS,1,Decline in Price,1405398
+28,MS,11,Drought,16237284
+28,MS,12,Heat,14597084
+28,MS,21,Hail,101690
+28,MS,31,Excess Moisture/Precip/Rain,78983282
+28,MS,42,Freeze,22520
+28,MS,44,Cold Wet Weather,1003913
+28,MS,51,Flood,4354877
+28,MS,61,Wind/Excess Wind,469247
+28,MS,71,Insects,2910
+28,MS,81,Plant Disease,75523
+28,MS,82,Mycotoxin (Aflatoxin),48351
+28,MS,91,Fire,3422
+28,MS,93,Wildlife,461999
+28,MS,97,Earthquake,30034
+28,MS,99,Other (Snow-Lightning-Etc.),170759
+30,MT,1,Decline in Price,5385069
+30,MT,11,Drought,36850195
+30,MT,12,Heat,6422380
+30,MT,13,Failure Irrig Supply,256518
+30,MT,14,Failure Irrig Equip,6531
+30,MT,21,Hail,57341971
+30,MT,31,Excess Moisture/Precip/Rain,422791
+30,MT,41,Frost,2115724
+30,MT,42,Freeze,2107713
+30,MT,43,Cold Winter,1306604
+30,MT,44,Cold Wet Weather,141358
+30,MT,51,Flood,9902
+30,MT,55,Area Plan Crops Only,721241
+30,MT,61,Wind/Excess Wind,1089952
+30,MT,62,Hot Wind,158654
+30,MT,71,Insects,476630
+30,MT,81,Plant Disease,463703
+30,MT,82,Mycotoxin (Aflatoxin),23852
+30,MT,93,Wildlife,62412
+30,MT,99,Other (Snow-Lightning-Etc.),15166
+37,NC,1,Decline in Price,2095879
+37,NC,11,Drought,80684313
+37,NC,12,Heat,14463812
+37,NC,21,Hail,1627102
+37,NC,22,Excess Sun,76903
+37,NC,31,Excess Moisture/Precip/Rain,89973493
+37,NC,41,Frost,7324176
+37,NC,42,Freeze,9354249
+37,NC,43,Cold Winter,128632
+37,NC,44,Cold Wet Weather,2511579
+37,NC,51,Flood,161298
+37,NC,55,Area Plan Crops Only,64678
+37,NC,61,Wind/Excess Wind,1522379
+37,NC,62,Hot Wind,14195
+37,NC,71,Insects,6768
+37,NC,81,Plant Disease,9990964
+37,NC,82,Mycotoxin (Aflatoxin),3914
+37,NC,87,Falling Numbers,2133
+37,NC,92,Hurricane/Tropical Depression,391314
+37,NC,93,Wildlife,751615
+37,NC,95,House Burn (Pole Burn),10245
+37,NC,99,Other (Snow-Lightning-Etc.),50256
+38,ND,1,Decline in Price,13856907
+38,ND,11,Drought,47633211
+38,ND,12,Heat,7220674
+38,ND,13,Failure Irrig Supply,2274
+38,ND,14,Failure Irrig Equip,12680
+38,ND,15,Inability to Prepare Land for Irr,8398
+38,ND,21,Hail,39976965
+38,ND,31,Excess Moisture/Precip/Rain,130103973
+38,ND,41,Frost,4427777
+38,ND,42,Freeze,5976727
+38,ND,43,Cold Winter,55039
+38,ND,44,Cold Wet Weather,10967629
+38,ND,51,Flood,138058
+38,ND,55,Area Plan Crops Only,1387732
+38,ND,61,Wind/Excess Wind,19918574
+38,ND,62,Hot Wind,5203188
+38,ND,64,Tornado,11358
+38,ND,71,Insects,678811
+38,ND,81,Plant Disease,9338634
+38,ND,82,Mycotoxin (Aflatoxin),4994915
+38,ND,87,Falling Numbers,58931
+38,ND,91,Fire,112540
+38,ND,93,Wildlife,3000556
+38,ND,97,Earthquake,7311
+38,ND,99,Other (Snow-Lightning-Etc.),565577
+31,NE,1,Decline in Price,6899642
+31,NE,11,Drought,16816353
+31,NE,12,Heat,1914415
+31,NE,13,Failure Irrig Supply,786542
+31,NE,14,Failure Irrig Equip,14001
+31,NE,21,Hail,49591923
+31,NE,31,Excess Moisture/Precip/Rain,49827770
+31,NE,41,Frost,354002
+31,NE,42,Freeze,4265071
+31,NE,43,Cold Winter,40539994
+31,NE,44,Cold Wet Weather,2141908
+31,NE,51,Flood,1929749
+31,NE,55,Area Plan Crops Only,269834
+31,NE,61,Wind/Excess Wind,2327027
+31,NE,62,Hot Wind,190223
+31,NE,64,Tornado,36399
+31,NE,71,Insects,103073
+31,NE,81,Plant Disease,1230171
+31,NE,82,Mycotoxin (Aflatoxin),554435
+31,NE,91,Fire,2542
+31,NE,93,Wildlife,285922
+31,NE,99,Other (Snow-Lightning-Etc.),1156012
+33,NH,21,Hail,3361
+33,NH,31,Excess Moisture/Precip/Rain,3614
+33,NH,43,Cold Winter,48285
+33,NH,99,Other (Snow-Lightning-Etc.),72
+34,NJ,1,Decline in Price,56826
+34,NJ,11,Drought,2910105
+34,NJ,12,Heat,298863
+34,NJ,13,Failure Irrig Supply,20707
+34,NJ,31,Excess Moisture/Precip/Rain,527386
+34,NJ,41,Frost,55366
+34,NJ,42,Freeze,89110
+34,NJ,43,Cold Winter,120625
+34,NJ,44,Cold Wet Weather,214523
+34,NJ,61,Wind/Excess Wind,115073
+34,NJ,81,Plant Disease,7452
+34,NJ,93,Wildlife,71703
+34,NJ,99,Other (Snow-Lightning-Etc.),3181
+35,NM,1,Decline in Price,63788
+35,NM,11,Drought,2195096
+35,NM,12,Heat,495915
+35,NM,13,Failure Irrig Supply,1205695
+35,NM,14,Failure Irrig Equip,82694
+35,NM,21,Hail,3031884
+35,NM,31,Excess Moisture/Precip/Rain,213944
+35,NM,42,Freeze,724969
+35,NM,43,Cold Winter,5585
+35,NM,44,Cold Wet Weather,43815
+35,NM,55,Area Plan Crops Only,891618
+35,NM,61,Wind/Excess Wind,656851
+35,NM,62,Hot Wind,290889
+35,NM,71,Insects,131750
+35,NM,81,Plant Disease,22624
+35,NM,93,Wildlife,30560
+35,NM,99,Other (Snow-Lightning-Etc.),44437
+32,NV,12,Heat,184157
+32,NV,13,Failure Irrig Supply,12256574
+32,NV,14,Failure Irrig Equip,40400
+32,NV,31,Excess Moisture/Precip/Rain,47691
+32,NV,43,Cold Winter,49215
+32,NV,55,Area Plan Crops Only,7390502
+32,NV,61,Wind/Excess Wind,94502
+36,NY,1,Decline in Price,320416
+36,NY,11,Drought,671430
+36,NY,12,Heat,2013296
+36,NY,21,Hail,1447779
+36,NY,22,Excess Sun,2025
+36,NY,31,Excess Moisture/Precip/Rain,22704353
+36,NY,41,Frost,6040323
+36,NY,42,Freeze,3179021
+36,NY,43,Cold Winter,4003682
+36,NY,44,Cold Wet Weather,4694021
+36,NY,51,Flood,3979
+36,NY,55,Area Plan Crops Only,149076
+36,NY,61,Wind/Excess Wind,29716
+36,NY,81,Plant Disease,14686
+36,NY,93,Wildlife,524351
+36,NY,99,Other (Snow-Lightning-Etc.),221521
+39,OH,1,Decline in Price,18661256
+39,OH,11,Drought,4758904
+39,OH,12,Heat,25283
+39,OH,13,Failure Irrig Supply,6713
+39,OH,15,Inability to Prepare Land for Irr,1897
+39,OH,21,Hail,222296
+39,OH,31,Excess Moisture/Precip/Rain,149263431
+39,OH,41,Frost,136652
+39,OH,42,Freeze,121162
+39,OH,43,Cold Winter,314314
+39,OH,44,Cold Wet Weather,1761207
+39,OH,51,Flood,1610770
+39,OH,61,Wind/Excess Wind,151495
+39,OH,63,Cyclone,967
+39,OH,71,Insects,20690
+39,OH,81,Plant Disease,464160
+39,OH,82,Mycotoxin (Aflatoxin),2434877
+39,OH,91,Fire,21104
+39,OH,93,Wildlife,136165
+39,OH,99,Other (Snow-Lightning-Etc.),597198
+40,OK,1,Decline in Price,4701987
+40,OK,11,Drought,51733860
+40,OK,12,Heat,203228
+40,OK,21,Hail,12621907
+40,OK,31,Excess Moisture/Precip/Rain,39713807
+40,OK,41,Frost,1378
+40,OK,42,Freeze,6314506
+40,OK,43,Cold Winter,626976
+40,OK,44,Cold Wet Weather,312271
+40,OK,51,Flood,2944365
+40,OK,55,Area Plan Crops Only,3106497
+40,OK,61,Wind/Excess Wind,1120503
+40,OK,62,Hot Wind,741487
+40,OK,64,Tornado,65727
+40,OK,71,Insects,120451
+40,OK,81,Plant Disease,277431
+40,OK,82,Mycotoxin (Aflatoxin),196631
+40,OK,87,Falling Numbers,1506
+40,OK,93,Wildlife,107235
+40,OK,97,Earthquake,7129
+40,OK,99,Other (Snow-Lightning-Etc.),562924
+41,OR,1,Decline in Price,2933499
+41,OR,11,Drought,18637802
+41,OR,12,Heat,10620210
+41,OR,13,Failure Irrig Supply,7066026
+41,OR,21,Hail,892775
+41,OR,31,Excess Moisture/Precip/Rain,360898
+41,OR,41,Frost,136005
+41,OR,42,Freeze,5634761
+41,OR,43,Cold Winter,547091
+41,OR,44,Cold Wet Weather,40589
+41,OR,55,Area Plan Crops Only,1007707
+41,OR,61,Wind/Excess Wind,167018
+41,OR,62,Hot Wind,237539
+41,OR,81,Plant Disease,222502
+41,OR,91,Fire,107107
+41,OR,93,Wildlife,326698
+41,OR,99,Other (Snow-Lightning-Etc.),15359
+42,PA,1,Decline in Price,1225170
+42,PA,11,Drought,4347880
+42,PA,12,Heat,246142
+42,PA,21,Hail,2084256
+42,PA,22,Excess Sun,641840
+42,PA,31,Excess Moisture/Precip/Rain,14111543
+42,PA,41,Frost,39350
+42,PA,42,Freeze,788462
+42,PA,43,Cold Winter,604476
+42,PA,44,Cold Wet Weather,277059
+42,PA,55,Area Plan Crops Only,217015
+42,PA,61,Wind/Excess Wind,133082
+42,PA,62,Hot Wind,38
+42,PA,71,Insects,35343
+42,PA,81,Plant Disease,31439
+42,PA,82,Mycotoxin (Aflatoxin),30899
+42,PA,87,Falling Numbers,1321
+42,PA,93,Wildlife,491900
+42,PA,99,Other (Snow-Lightning-Etc.),212462
+44,RI,11,Drought,57118
+44,RI,43,Cold Winter,3306
+44,RI,93,Wildlife,2444
+45,SC,1,Decline in Price,564812
+45,SC,11,Drought,42103789
+45,SC,12,Heat,7973622
+45,SC,13,Failure Irrig Supply,14234
+45,SC,21,Hail,138727
+45,SC,31,Excess Moisture/Precip/Rain,63868160
+45,SC,41,Frost,29944
+45,SC,42,Freeze,7253994
+45,SC,43,Cold Winter,3480
+45,SC,44,Cold Wet Weather,485317
+45,SC,51,Flood,289985
+45,SC,55,Area Plan Crops Only,127192
+45,SC,61,Wind/Excess Wind,71255
+45,SC,62,Hot Wind,58603
+45,SC,81,Plant Disease,1537336
+45,SC,82,Mycotoxin (Aflatoxin),7810
+45,SC,93,Wildlife,698352
+45,SC,99,Other (Snow-Lightning-Etc.),188639
+46,SD,1,Decline in Price,8585787
+46,SD,11,Drought,48349143
+46,SD,12,Heat,312336
+46,SD,13,Failure Irrig Supply,42690
+46,SD,21,Hail,40359821
+46,SD,31,Excess Moisture/Precip/Rain,41692688
+46,SD,41,Frost,473911
+46,SD,42,Freeze,2864641
+46,SD,43,Cold Winter,26274481
+46,SD,44,Cold Wet Weather,2621401
+46,SD,51,Flood,101739
+46,SD,55,Area Plan Crops Only,329567
+46,SD,61,Wind/Excess Wind,1639596
+46,SD,62,Hot Wind,283167
+46,SD,63,Cyclone,1909
+46,SD,64,Tornado,3360
+46,SD,71,Insects,29887
+46,SD,81,Plant Disease,1240096
+46,SD,82,Mycotoxin (Aflatoxin),532000
+46,SD,91,Fire,503
+46,SD,93,Wildlife,185278
+46,SD,99,Other (Snow-Lightning-Etc.),2776269
+47,TN,1,Decline in Price,732970
+47,TN,11,Drought,2663276
+47,TN,12,Heat,246873
+47,TN,13,Failure Irrig Supply,32908
+47,TN,21,Hail,178031
+47,TN,31,Excess Moisture/Precip/Rain,26686857
+47,TN,41,Frost,170661
+47,TN,42,Freeze,539236
+47,TN,44,Cold Wet Weather,1350948
+47,TN,51,Flood,9829348
+47,TN,61,Wind/Excess Wind,68154
+47,TN,71,Insects,4441
+47,TN,81,Plant Disease,302403
+47,TN,82,Mycotoxin (Aflatoxin),20969
+47,TN,91,Fire,91251
+47,TN,92,Hurricane/Tropical Depression,1675
+47,TN,93,Wildlife,533949
+47,TN,95,House Burn (Pole Burn),785953
+47,TN,99,Other (Snow-Lightning-Etc.),4264
+48,TX,1,Decline in Price,4920551
+48,TX,11,Drought,59780141
+48,TX,12,Heat,7388218
+48,TX,13,Failure Irrig Supply,37418902
+48,TX,14,Failure Irrig Equip,38732
+48,TX,15,Inability to Prepare Land for Irr,16919
+48,TX,21,Hail,96653045
+48,TX,31,Excess Moisture/Precip/Rain,256389043
+48,TX,41,Frost,45910
+48,TX,42,Freeze,1783199
+48,TX,43,Cold Winter,51957
+48,TX,44,Cold Wet Weather,7114785
+48,TX,51,Flood,3876139
+48,TX,55,Area Plan Crops Only,6178537
+48,TX,61,Wind/Excess Wind,16093746
+48,TX,62,Hot Wind,5924665
+48,TX,64,Tornado,248553
+48,TX,71,Insects,1522799
+48,TX,81,Plant Disease,1028485
+48,TX,82,Mycotoxin (Aflatoxin),30871
+48,TX,91,Fire,3486
+48,TX,93,Wildlife,1195462
+48,TX,97,Earthquake,36590
+48,TX,99,Other (Snow-Lightning-Etc.),176848
+49,UT,1,Decline in Price,42110
+49,UT,11,Drought,238999
+49,UT,12,Heat,217181
+49,UT,13,Failure Irrig Supply,623516
+49,UT,21,Hail,69954
+49,UT,31,Excess Moisture/Precip/Rain,50671
+49,UT,41,Frost,199058
+49,UT,42,Freeze,374958
+49,UT,43,Cold Winter,54858
+49,UT,44,Cold Wet Weather,8685
+49,UT,55,Area Plan Crops Only,1104403
+49,UT,61,Wind/Excess Wind,11098
+49,UT,62,Hot Wind,52249
+49,UT,71,Insects,42750
+49,UT,93,Wildlife,7501
+51,VA,1,Decline in Price,1673157
+51,VA,11,Drought,10120701
+51,VA,12,Heat,2607290
+51,VA,21,Hail,1094154
+51,VA,22,Excess Sun,557808
+51,VA,31,Excess Moisture/Precip/Rain,11659362
+51,VA,41,Frost,987405
+51,VA,42,Freeze,2453555
+51,VA,43,Cold Winter,521324
+51,VA,44,Cold Wet Weather,403426
+51,VA,51,Flood,70512
+51,VA,55,Area Plan Crops Only,97125
+51,VA,61,Wind/Excess Wind,283714
+51,VA,71,Insects,23532
+51,VA,81,Plant Disease,197098
+51,VA,82,Mycotoxin (Aflatoxin),26409
+51,VA,93,Wildlife,572035
+51,VA,99,Other (Snow-Lightning-Etc.),71998
+50,VT,1,Decline in Price,6733
+50,VT,11,Drought,68567
+50,VT,12,Heat,101828
+50,VT,31,Excess Moisture/Precip/Rain,3079753
+50,VT,43,Cold Winter,8361
+50,VT,44,Cold Wet Weather,88214
+50,VT,93,Wildlife,2358
+53,WA,1,Decline in Price,16119292
+53,WA,11,Drought,90434895
+53,WA,12,Heat,40171344
+53,WA,13,Failure Irrig Supply,1116048
+53,WA,21,Hail,8991231
+53,WA,22,Excess Sun,22
+53,WA,31,Excess Moisture/Precip/Rain,2332834
+53,WA,41,Frost,6705821
+53,WA,42,Freeze,6440536
+53,WA,43,Cold Winter,6655814
+53,WA,44,Cold Wet Weather,1973188
+53,WA,61,Wind/Excess Wind,1106309
+53,WA,62,Hot Wind,200343
+53,WA,71,Insects,23655
+53,WA,81,Plant Disease,97860
+53,WA,91,Fire,250100
+53,WA,93,Wildlife,1542
+53,WA,99,Other (Snow-Lightning-Etc.),153832
+55,WI,1,Decline in Price,3146360
+55,WI,11,Drought,10103830
+55,WI,12,Heat,1288013
+55,WI,13,Failure Irrig Supply,646
+55,WI,15,Inability to Prepare Land for Irr,8924
+55,WI,21,Hail,1899544
+55,WI,31,Excess Moisture/Precip/Rain,18219010
+55,WI,41,Frost,857507
+55,WI,42,Freeze,243905
+55,WI,43,Cold Winter,6310166
+55,WI,44,Cold Wet Weather,5475632
+55,WI,51,Flood,31793
+55,WI,55,Area Plan Crops Only,121428
+55,WI,61,Wind/Excess Wind,161040
+55,WI,71,Insects,97587
+55,WI,81,Plant Disease,987955
+55,WI,82,Mycotoxin (Aflatoxin),521411
+55,WI,93,Wildlife,198660
+55,WI,95,House Burn (Pole Burn),27244
+55,WI,97,Earthquake,2963
+55,WI,99,Other (Snow-Lightning-Etc.),1024483
+54,WV,1,Decline in Price,11087
+54,WV,11,Drought,133401
+54,WV,21,Hail,12986
+54,WV,22,Excess Sun,376581
+54,WV,31,Excess Moisture/Precip/Rain,318970
+54,WV,41,Frost,12605
+54,WV,42,Freeze,199639
+54,WV,43,Cold Winter,288
+54,WV,44,Cold Wet Weather,3318
+54,WV,61,Wind/Excess Wind,27050
+54,WV,93,Wildlife,46203
+56,WY,1,Decline in Price,191391
+56,WY,11,Drought,53390
+56,WY,12,Heat,35287
+56,WY,13,Failure Irrig Supply,7164
+56,WY,21,Hail,3606177
+56,WY,31,Excess Moisture/Precip/Rain,1219196
+56,WY,41,Frost,79426
+56,WY,42,Freeze,796930
+56,WY,43,Cold Winter,306818
+56,WY,44,Cold Wet Weather,262968
+56,WY,51,Flood,6435
+56,WY,55,Area Plan Crops Only,27776
+56,WY,61,Wind/Excess Wind,76487
+56,WY,62,Hot Wind,5372
+56,WY,71,Insects,1507
+56,WY,81,Plant Disease,17754
+56,WY,93,Wildlife,7959
