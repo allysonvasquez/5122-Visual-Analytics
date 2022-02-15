@@ -18,8 +18,10 @@ if st.sidebar.checkbox('Show dataframe'):
 
 if st.sidebar.checkbox('Damage Result'):
     df1 = df.groupby(['Damage_Descp']).mean('Amount')
+    df1.reset_index()
     st.bar_chart(df1)
 
 if st.sidebar.checkbox('States Amount'):
     df1 = df.groupby(['State_Abv']).sum('Amount')
+    df1.reset_index()
     st.bar_chart(df1)
